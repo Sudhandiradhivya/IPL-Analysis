@@ -72,5 +72,5 @@ Sports Basics, a new sports blog company, aims to boost website traffic by relea
 
 • Balance the team composition by including players who can cover different aspects of the game effectively.
 
-[IPL2024- ](https://github.com/Sudhandiradhivya/IPL-Analysis/files/14949201/IPL2024-.Final.Dashboard.pdf)
+[IPL Analysis](https://github.com/Sudhandiradhivya/IPL-Analysis/files/14949201/IPL2024-.Final.Dashboard.pdf)
 
