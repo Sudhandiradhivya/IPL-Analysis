@@ -24,8 +24,11 @@ Sports Basics, a new sports blog company, aims to boost website traffic by relea
 ### Team Performance Analysis:
 
 • Analyze IPL seasons 2021, 2022, and 2023: identify title winners, runners-up, and winning margins.
+
 • Determine Orange Cap and Purple Cap winners for each season.
+
 • Categorize teams based on winning percentage.
+
 • Identify teams with successful chase records.
 
 ### Batsman Stats:
